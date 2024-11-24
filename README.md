@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/1b1f195e-a79b-4666-b2da-89ca99ec4392
+
+
+
 # ChatAppClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.5.
